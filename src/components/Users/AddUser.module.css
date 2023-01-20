@@ -1,0 +1,30 @@
+.input{
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
+
+.input label{
+    display: block;
+    margin-top: 0.4rem;
+    font-weight: bold;
+
+}
+.input input{
+    display: block;
+    font:inherit;
+    width: 100%;
+    border: 1px solid #6666;
+}
+
+/* .input button{
+    background-color: white;
+    border: 1px solid #6666;
+    margin-top: .3rem;   
+    padding: .3rem; 
+} */
+
+.valid:focus{
+    color:red;
+}

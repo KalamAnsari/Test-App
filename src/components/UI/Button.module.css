@@ -1,0 +1,11 @@
+.button{
+    background-color: blueviolet;
+    border: 1px solid #6666;
+    margin-top: .3rem;   
+    padding: .3rem;
+}
+
+.button:hover{
+    color: aliceblue;
+    transition: 1s;
+}

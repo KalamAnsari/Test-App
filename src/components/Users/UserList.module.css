@@ -1,0 +1,17 @@
+.user{
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
+.user ul{
+    border: 1px solid gray;
+   
+}
+
+.user ul li{
+    list-style: none;
+    font: inherit;
+    font-family: sans-serif;
+    padding: .2rem;
+}
